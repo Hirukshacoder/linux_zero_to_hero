@@ -1,4 +1,4 @@
-# linuxallset
+# linux_zero_to_hero 
 
 # Another day another tool 😀
 
@@ -18,7 +18,7 @@ Made by Treveen / Hirukshacorder on github
 
 # Install 
 
-        kali@user ~ $ git clone https://github.com/Hirukshacoder/linuxallset
+        kali@user ~ $ git clone https://github.com/Hirukshacoder/linux_zero_to_hero
         kali@user ~ $ cd linuxallset
         kali@user ~ $ ./setup.sh
         kali@user ~ $ sudo bash main.sh
